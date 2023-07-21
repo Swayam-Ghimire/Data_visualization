@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 *.png
+=======
+colormap_explained.txt
+__pycache__/
+>>>>>>> a83cc8748bcf2f4c7cb41ef72508471879d895fa
